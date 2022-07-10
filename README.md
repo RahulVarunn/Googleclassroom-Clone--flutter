@@ -6,8 +6,9 @@ To run this application it's required visual studio code , connect your device o
 
 
 # RUN
-Run this command on VSConsole
 **Flutter run**
+
+Run this command on VSConsole
 
 # Output 
 <img width="239" alt="image" src="https://user-images.githubusercontent.com/98281711/178155555-156074d2-e5d1-4463-a609-488c97f1ba23.png"><img width="240" alt="image" src="https://user-images.githubusercontent.com/98281711/178155524-1632b1d7-b67d-4032-8153-8bc309c38b14.png">
